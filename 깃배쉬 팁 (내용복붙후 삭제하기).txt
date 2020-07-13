@@ -1,0 +1,8 @@
+please tell me you are 에러메세지 뜨면
+
+git config user.name "이름" Project-Lee
+
+git config user.eamil "이메일주소" - ddw9900@naver.com
+
+
+
